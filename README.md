@@ -1,6 +1,6 @@
 # 안녕하세요! 정석환입니다 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jungseokhwan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Jungseokhwan&color=green&style=flat-square&label=Profile+Views)
 
 인천대학교에서 컴퓨터공학을 전공하며, 꾸준히 성장하고자 노력하는 예비 개발자입니다. 
 
@@ -34,10 +34,9 @@
 </a>
 
 ### 📈 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jungseokhwan&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungseokhwan&layout=compact&theme=transparent&hide_border=true" width="48%" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jungseokhwan&show_icons=true&theme=transparent&hide_border=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungseokhwan&layout=compact&theme=transparent&hide_border=true)
 
 ### 📫 Contact
 - **Email**: [jsh2910@naver.com](mailto:jsh2910@naver.com)
